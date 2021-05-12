@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>The Knowledgeably Yours Podcast</title>
+    <link>https://knowledgeablyyours.github.io</link>
+    <description>A pot pourry of rants!</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://knowledgeableyours.github.io/static/Logo.png</url>
+      <title>The Knowledgeably Yours Podcast</title>
+      <link>https://knowledgeablyyours.github.io</link>
+    </image>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 May 2021 17:17:58 +0000</lastBuildDate>
+    <itunes:category text="Technology">
+      <itunes:category text="Podcasting"/>
+    </itunes:category>
+    <item>
+      <title>01 - Whatsapp</title>
+      <description>My thoughts on the unfortunately popular Whatsapp..</description>
+      <guid isPermaLink="false">https://knowledgeably.yours.github.io/audio/01-whatsapp.mp3</guid>
+      <enclosure url="https://knowledgeablyyours.github.io/audio/01-whatsapp.mp3" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
