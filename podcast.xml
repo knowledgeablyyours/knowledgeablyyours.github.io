@@ -3,24 +3,28 @@
   <channel>
     <title>The Knowledgeably Yours Podcast</title>
     <link>https://knowledgeablyyours.github.io</link>
-    <description>A pot pourry of rants!</description>
+    <description>A potpourri of rants!</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://knowledgeableyours.github.io/static/Logo.png</url>
+      <url>https://knowledgeablyyours.github.io/static/Logo.png</url>
       <title>The Knowledgeably Yours Podcast</title>
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 May 2021 17:17:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 May 2021 14:23:49 +0000</lastBuildDate>
     <itunes:category text="Technology">
-      <itunes:category text="Podcasting"/>
+      <itunes:category text="Science"/>
     </itunes:category>
+    <itunes:image href="https://knowledgeablyyours.github.io/static/Logo2.png"/>
+    <itunes:explicit>no</itunes:explicit>
     <item>
       <title>01 - Whatsapp</title>
-      <description>My thoughts on the unfortunately popular Whatsapp..</description>
+      <description>My thoughts on the unfortunately popular Whatsapp...</description>
       <guid isPermaLink="false">https://knowledgeably.yours.github.io/audio/01-whatsapp.mp3</guid>
-      <enclosure url="https://knowledgeablyyours.github.io/audio/01-whatsapp.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://knowledgeablyyours.github.io/audio/01-whatsapp.mp3" length="36576" type="audio/mpeg"/>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
     </item>
   </channel>
 </rss>
