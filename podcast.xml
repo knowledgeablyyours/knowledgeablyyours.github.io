@@ -12,12 +12,16 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 May 2021 17:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 May 2021 17:10:31 +0000</lastBuildDate>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
     </itunes:category>
     <itunes:image href="https://knowledgeablyyours.github.io/static/Logo2.png"/>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Knowledgeably Yours</itunes:name>
+      <itunes:email>knowledgeably.yours@protonmail.com</itunes:email>
+    </itunes:owner>
     <item>
       <title>01 - Whatsapp</title>
       <description>My thoughts on the unfortunately popular Whatsapp...</description>
