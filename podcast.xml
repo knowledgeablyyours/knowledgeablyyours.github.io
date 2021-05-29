@@ -13,7 +13,7 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 22 May 2021 03:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 May 2021 08:39:55 +0000</lastBuildDate>
     <itunes:author>Kaustubh Vaghmare</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
@@ -25,20 +25,35 @@
       <itunes:email>knowledgeably.yours@protonmail.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>03 - Type 2 Diabetes</title>
+      <description>Type 2 Diabetes is affecting more than a few hundred million people on the planet. What is the cause? What is the cure? In this episode we take a look at the disease in great detail, the many wrong assumptions and myths about it and more importantly - a cure!&#13;
+&#13;
+Disclaimer: Not to be treated as medical advice.&#13;
+&#13;
+Trivia: Recorded in a single 2.5 hour take! Please excuse voice, style and accent inconsistencies!</description>
+      <guid isPermaLink="false">https://knowledgeably.yours.github.io/audio/03-type2_diabetes.mp3</guid>
+      <enclosure url="https://archive.org/download/ky-podcast-03-type-2-diabetes/03-type2_diabetes.mp3" length="138142456" type="audio/mpeg"/>
+      <pubDate>Sat, 29 May 2021 00:00:00 +0000</pubDate>
+      <itunes:image href="https://knowledgeably.yours.github.io/static/Logo.png"/>
+      <itunes:duration>8807</itunes:duration>
+    </item>
+    <item>
       <title>02 - Podcasts, Automations etc.</title>
       <description>At the time of recording this episode, I am not being allowed by Google to access my Youtube account. I use this opportunity to comment on what happened. As a bonus, I explain how podcasts work and also offer thoughts on the banes of automation.</description>
       <guid isPermaLink="false">https://knowledgeably.yours.github.io/audio/02-podcasts_automations_etc.mp3</guid>
-      <enclosure url="https://knowledgeablyyours.github.io/audio/02-podcasts_automations_etc.mp3" length="32832" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/ky-podcast-02-podcasts-automations-etc/02-podcasts_automations_etc.mp3" length="33613646" type="audio/mpeg"/>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
-      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
+      <itunes:image href="https://knowledgeably.yours.github.io/static/Logo.png"/>
+      <itunes:duration>2112</itunes:duration>
     </item>
     <item>
       <title>01 - Whatsapp</title>
       <description>My thoughts on the unfortunately popular Whatsapp...</description>
       <guid isPermaLink="false">https://knowledgeably.yours.github.io/audio/01-whatsapp.mp3</guid>
-      <enclosure url="https://knowledgeablyyours.github.io/audio/01-whatsapp.mp3" length="36576" type="audio/mpeg"/>
+      <enclosure url="https://archive.org/download/ky-podcast-01-whatsapp/01-whatsapp.mp3" length="37453117" type="audio/mpeg"/>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
+      <itunes:image href="https://knowledgeably.yours.github.io/static/Logo.png"/>
+      <itunes:duration>2271</itunes:duration>
     </item>
   </channel>
 </rss>
