@@ -13,7 +13,7 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 29 May 2021 09:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 02:37:28 +0000</lastBuildDate>
     <itunes:author>Kaustubh Vaghmare</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
@@ -24,6 +24,15 @@
       <itunes:name>Knowledgeably Yours</itunes:name>
       <itunes:email>knowledgeably.yours@protonmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>04 - Zero Knowledge Communication</title>
+      <description>We all have heard about E2E encryption and have soon begun to accept it as a private and secure form of communication. But is it really safe? What is needed in order to make E2E communication even safer? Enter Zero Knowledge Encryption. This podcast attempts to explain zero knowledge encryption in a non-technical and approachable manner.</description>
+      <guid isPermaLink="false">https://knowledgeablyyours.github.io/audio/04-zero_knowledge_communication.mp3</guid>
+      <enclosure url="https://archive.org/download/ky-podcast-04-zero-knowledge-communication/04-zero_knowledge_communication.mp3" length="45652124" type="audio/mpeg"/>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
+      <itunes:duration>2897</itunes:duration>
+    </item>
     <item>
       <title>03 - Type 2 Diabetes</title>
       <description>Type 2 Diabetes is affecting more than a few hundred million people on the planet. What is the cause? What is the cure? In this episode we take a look at the disease in great detail, the many wrong assumptions and myths about it and more importantly - a cure!&#13;
