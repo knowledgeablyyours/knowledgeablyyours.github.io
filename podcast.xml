@@ -13,7 +13,7 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Jun 2021 02:37:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 01:47:30 +0000</lastBuildDate>
     <itunes:author>Kaustubh Vaghmare</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
@@ -24,6 +24,15 @@
       <itunes:name>Knowledgeably Yours</itunes:name>
       <itunes:email>knowledgeably.yours@protonmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>05 - News and Comedy</title>
+      <description>In this episode, I do some loud thinking on news, comedians and comedians who do news!</description>
+      <guid isPermaLink="false">https://knowledgeablyyours.github.io/audio/05-news_and_comedy.mp3</guid>
+      <enclosure url="https://archive.org/download/ky-podcast-05-news-and-comedy/05-news_and_comedy.mp3" length="30470715" type="audio/mpeg"/>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
+      <itunes:duration>1983</itunes:duration>
+    </item>
     <item>
       <title>04 - Zero Knowledge Communication</title>
       <description>We all have heard about E2E encryption and have soon begun to accept it as a private and secure form of communication. But is it really safe? What is needed in order to make E2E communication even safer? Enter Zero Knowledge Encryption. This podcast attempts to explain zero knowledge encryption in a non-technical and approachable manner.</description>
