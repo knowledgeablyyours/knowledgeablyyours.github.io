@@ -13,7 +13,7 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jun 2021 01:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 02:03:19 +0000</lastBuildDate>
     <itunes:author>Kaustubh Vaghmare</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
@@ -26,7 +26,9 @@
     </itunes:owner>
     <item>
       <title>05 - News and Comedy</title>
-      <description>In this episode, I do some loud thinking on news, comedians and comedians who do news!</description>
+      <description>In this episode, I do some loud thinking on news, comedians and comedians who do news!&#13;
+&#13;
+PS: Towards the end, I very confusingly say, "I am not against banning." This is a double negative by accident. I am against banning! It should be obvious from the next statement - "I believe in free speech."</description>
       <guid isPermaLink="false">https://knowledgeablyyours.github.io/audio/05-news_and_comedy.mp3</guid>
       <enclosure url="https://archive.org/download/ky-podcast-05-news-and-comedy/05-news_and_comedy.mp3" length="30470715" type="audio/mpeg"/>
       <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
