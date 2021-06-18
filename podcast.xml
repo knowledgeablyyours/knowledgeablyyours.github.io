@@ -13,7 +13,7 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jun 2021 02:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 17:26:48 +0000</lastBuildDate>
     <itunes:author>Kaustubh Vaghmare</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
@@ -24,6 +24,15 @@
       <itunes:name>Knowledgeably Yours</itunes:name>
       <itunes:email>knowledgeably.yours@protonmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>06 - Why So Lengthy</title>
+      <description>In this ironically short episode, I comment on why I do not intend to deliberately restrict the lengths of my podcast episodes.</description>
+      <guid isPermaLink="false">https://knowledgeablyyours.github.io/audio/06-why_so_lengthy.mp3</guid>
+      <enclosure url="https://archive.org/download/ky-podcast-06-why-so-lengthy/06-why_so_lengthy.mp3" length="14053489" type="audio/mpeg"/>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
+      <itunes:duration>889</itunes:duration>
+    </item>
     <item>
       <title>05 - News and Comedy</title>
       <description>In this episode, I do some loud thinking on news, comedians and comedians who do news!&#13;
