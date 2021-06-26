@@ -13,7 +13,7 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Jun 2021 17:26:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jun 2021 13:32:26 +0000</lastBuildDate>
     <itunes:author>Kaustubh Vaghmare</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
@@ -24,6 +24,15 @@
       <itunes:name>Knowledgeably Yours</itunes:name>
       <itunes:email>knowledgeably.yours@protonmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>07 - Free Speech and Big Tech</title>
+      <description>In this episode, I talk about the importance of free speech and how it has been enabled and enhanced by many big tech companies and the platforms/services provided by them. Until of course, recently! I discuss how the major companies who may have once been considered champions of free speech, have now started hindering it.</description>
+      <guid isPermaLink="false">https://knowledgeablyyours.github.io/audio/07-free_speech_big_tech.mp3</guid>
+      <enclosure url="https://archive.org/download/ky-podcast-07-free-speech-big-tech/07-free_speech_big_tech.mp3" length="39387276" type="audio/mpeg"/>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
+      <itunes:duration>2426</itunes:duration>
+    </item>
     <item>
       <title>06 - Why So Lengthy</title>
       <description>In this ironically short episode, I comment on why I do not intend to deliberately restrict the lengths of my podcast episodes.</description>
