@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-      <!--Podcasts Manager Ownership Verification 12072021 -->
     <title>The Knowledgeably Yours Podcast</title>
     <link>https://knowledgeablyyours.github.io</link>
     <description>A potpourri of rants!</description>
@@ -14,7 +13,7 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jul 2021 13:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jul 2021 02:13:20 +0000</lastBuildDate>
     <itunes:author>Kaustubh Vaghmare</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
@@ -25,6 +24,15 @@
       <itunes:name>Knowledgeably Yours</itunes:name>
       <itunes:email>knowledgeably.yours@protonmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>08 - Quantifying Quality</title>
+      <description>In this episode, I share some thoughts about the dangers of quantification of human qualities. The episode is motivated by a recent trip and a description of what I observed during this trip forms a major component of this podcast.</description>
+      <guid isPermaLink="false">https://knowledgeablyyours.github.io/audio/08-quantifying-quality.mp3</guid>
+      <enclosure url="https://archive.org/download/ky-podcast-08-quantifying-quality/08-quantifying-quality.mp3" length="26377428" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
+      <itunes:duration>1627</itunes:duration>
+    </item>
     <item>
       <title>07 - Free Speech and Big Tech</title>
       <description>In this episode, I talk about the importance of free speech and how it has been enabled and enhanced by many big tech companies and the platforms/services provided by them. Until of course, recently! I discuss how the major companies who may have once been considered champions of free speech, have now started hindering it.</description>
