@@ -13,7 +13,7 @@
       <link>https://knowledgeablyyours.github.io</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Jul 2021 02:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Aug 2021 02:12:41 +0000</lastBuildDate>
     <itunes:author>Kaustubh Vaghmare</itunes:author>
     <itunes:category text="Technology">
       <itunes:category text="Science"/>
@@ -24,6 +24,15 @@
       <itunes:name>Knowledgeably Yours</itunes:name>
       <itunes:email>knowledgeably.yours@protonmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>09 - Religion and Prime Directive</title>
+      <description>In this episode, I start with a principle known as The Prime Directive from the Star Trek Universe. I then make an attempt to see this principle in a religious light thus trying to offer a possible explanation of origin of religious principles, their important and relevance even in today's day and age, dominated by science and technology.</description>
+      <guid isPermaLink="false">https://knowledgeablyyours.github.io/audio/09-religion-and-prime-directive.mp3</guid>
+      <enclosure url="https://archive.org/download/ky-podcast-09-religion-and-prime-directive/09-religion-and-prime-directive.mp3" length="27186018" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
+      <itunes:image href="https://knowledgeablyyours.github.io/static/Logo.png"/>
+      <itunes:duration>1700</itunes:duration>
+    </item>
     <item>
       <title>08 - Quantifying Quality</title>
       <description>In this episode, I share some thoughts about the dangers of quantification of human qualities. The episode is motivated by a recent trip and a description of what I observed during this trip forms a major component of this podcast.</description>
